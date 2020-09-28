@@ -1,4 +1,4 @@
-<img align="right" width="400" src="https://raw.githubusercontent.com/andresgcarmona/andresgcarmona/master/assets/man_moon">
+<img align="right" width="400" src="https://raw.githubusercontent.com/andresgcarmona/andresgcarmona/master/assets/man_moon.gif">
 
 
 # Hi, I'm Andrés Carmona :robot:
