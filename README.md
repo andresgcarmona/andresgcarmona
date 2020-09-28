@@ -12,3 +12,10 @@ Full-Stack | Software engineer | Mobile developer :rocket:. (In progress)
 - :earth_americas: I'm from México :mexico:
 - :heart: I love Programming
 - :book: I read a lot about everything
+
+## Programming Languages 🌐
+
+- Know/Using
+
+| [<img src="https://raw.githubusercontent.com/andresgcarmona/andresgcarmona/master/assets/php.png" alt="go logo" width="38">](https://php.net/)  | [<img src="https://raw.githubusercontent.com/andresgcarmona/andresgcarmona/master/assets/laravel.png" alt="laravel logo" width="38">](https://laravel.com/)  |
+|---|---|---|---|---|---|
