@@ -24,5 +24,5 @@ Full-Stack | Software engineer | Mobile developer :rocket:. (In progress)
 
 ### Learning
 
-| [<img src="https://raw.githubusercontent.com/andresgcarmona/andresgcarmona/master/assets/flutter.png" alt="flutter_logo">](http://flutter.dev/) | [<img src="https://raw.githubusercontent.com/andresgcarmona/andresgcarmona/master/assets/dart.png" alt="dart_logo">](https://dart.dev/)
-|---|
+| [<img src="https://raw.githubusercontent.com/andresgcarmona/andresgcarmona/master/assets/flutter.png" alt="flutter_logo" width="32">](http://flutter.dev/) | [<img src="https://raw.githubusercontent.com/andresgcarmona/andresgcarmona/master/assets/dart.png" alt="dart_logo" width="32">](https://dart.dev/)
+|---|---|
