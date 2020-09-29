@@ -3,10 +3,11 @@
 Full-Stack | Software engineer | Mobile developer :rocket:. (In progress)
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/andresgcarmona)
+[![Gitlab ](https://img.shields.io/badge/-Gitlab-292961?style=flat&logo=Gitlab&logoColor=white)](https://gitlab.com/andres_gcarmona)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andres-carmona-yepez-4172a127/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ing.andres.carmona@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-0078D4?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/andres_gcarmona)
-[![DEV.to](https://img.shields.io/badge/dev.to-andres__gcarmona-black?style=flat)](https://dev.to/andres_gcarmona)
+[![DEV.to](https://img.shields.io/badge/-andres__gcarmona-0a0a0a?style=flat&logo=dev.to&logoColor=white)](https://dev.to/andres_gcarmona)
 
 ## About me
 
