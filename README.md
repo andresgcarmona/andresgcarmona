@@ -9,10 +9,10 @@ Full-Stack | Software engineer | Mobile developer :rocket:. (In progress)
 
 ## About me 
 
-- :earth_americas: I'm from México :mexico:
 - :heart: I love Programming
 - :book: I read a lot about everything
-
+- :earth_americas: I'm from México :mexico:
+  
 ## Programming Languages 🌐
 
 - Know/Using
