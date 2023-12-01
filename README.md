@@ -1,3 +1,5 @@
+<img src="./assets/offline.png" alt="go logo" width="100%">
+
 # Hi, I'm Andrés Carmona :robot:
 
 Full-Stack | Software engineer | Mobile developer :rocket:. (In progress)
